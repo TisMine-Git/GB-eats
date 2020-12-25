@@ -1,2 +1,2 @@
-# GB-eats
+# Goober-eats
 A navigation system
