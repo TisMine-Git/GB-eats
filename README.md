@@ -1,2 +1,2 @@
 # GB-eats
-A navigation system-school project
+A navigation system
